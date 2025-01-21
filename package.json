@@ -1,4 +1,8 @@
 {
-  "name": "TodoLists",
-  "packageManager": "yarn@4.6.0"
+  "name": "@palbahngmiyine/todo-lists",
+  "version": "0.0.1",
+  "packageManager": "yarn@4.6.0",
+  "workspaces": [
+    "examples/*"
+  ]
 }
